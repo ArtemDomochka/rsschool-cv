@@ -33,8 +33,8 @@ Also:
 - Udemy course "Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express)" by Владилен Минин 
 
 ### My projects
-Weather application in javascript - https://github.com/ArtemDomochka/Weather
-Image Viewer in QML/C++ - https://github.com/ArtemDomochka/ImageViewer
+- Weather application in javascript - https://github.com/ArtemDomochka/Weather
+- Image Viewer in QML/C++ - https://github.com/ArtemDomochka/ImageViewer
 
 ### Personal skills
 - learn new technologies in a short span of time
