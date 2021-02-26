@@ -36,6 +36,12 @@ Also:
 Weather application in javascript - https://github.com/ArtemDomochka/Weather
 Image Viewer in QML/C++ - https://github.com/ArtemDomochka/ImageViewer
 
+### Personal skills
+- learn new technologies in a short span of time
+- looking for moders ways of solvig problems
+- time management
+- responsible
+
 
 
 
