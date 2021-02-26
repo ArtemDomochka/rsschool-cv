@@ -8,3 +8,6 @@
 - https://github.com/ArtemDomochka
 - https://www.linkedin.com/in/artem-domochka-a8b6991bb/
 
+### Objective
+My purpose is to become junior javascript developer and during 4 years become a senior.
+
