@@ -5,8 +5,8 @@
 - Ukraine, Dnipro, pr. Geroev
 - +38(098)9556499
 - artem.domochka@gmail.com
-- https://github.com/ArtemDomochka
-- https://www.linkedin.com/in/artem-domochka-a8b6991bb/
+- <https://github.com/ArtemDomochka>
+- <https://www.linkedin.com/in/artem-domochka-a8b6991bb/>
 
 ### Objective
 My purpose is to become junior javascript developer and during 4 years become a senior.
@@ -33,8 +33,8 @@ Also:
 - Udemy course "Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express)" by Владилен Минин 
 
 ### My projects
-- Weather application in javascript - https://github.com/ArtemDomochka/Weather
-- Image Viewer in QML/C++ - https://github.com/ArtemDomochka/ImageViewer
+- Weather application in javascript - <https://github.com/ArtemDomochka/Weather>
+- Image Viewer in QML/C++ - <https://github.com/ArtemDomochka/ImageViewer>
 
 ### Personal skills
 - learn new technologies in a short span of time
