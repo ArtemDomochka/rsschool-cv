@@ -32,3 +32,10 @@ Also:
 - Udemy course "React JS. Практический Курс 2020 (вкл. Хуки, - Классы, Redux)" by Владилен Минин 
 - Udemy course "Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express)" by Владилен Минин 
 
+### My projects
+Weather application in javascript - https://github.com/ArtemDomochka/Weather
+Image Viewer in QML/C++ - https://github.com/ArtemDomochka/ImageViewer
+
+
+
+
