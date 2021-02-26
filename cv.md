@@ -26,3 +26,9 @@ Also:
 - Docker
 - Linux OS
 
+### Education
+- PSACEA, Information technology and computer engineering, Computer science. 2018-2022.
+- Course "Advanced C++ and low level programming" at Apriorit
+- Udemy course "React JS. Практический Курс 2020 (вкл. Хуки, - Классы, Redux)" by Владилен Минин 
+- Udemy course "Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express)" by Владилен Минин 
+
