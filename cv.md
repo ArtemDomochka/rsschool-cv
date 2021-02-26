@@ -42,6 +42,28 @@ Also:
 - time management
 - responsible
 
-
-
+### Code example 
+This is a render function from WeatherBoard component from Weather application
+```
+render(){
+        return(
+            this.state.isLoaded
+            ? <div className={styles.WeatherBoard}>
+                <MainBoard
+                    forecast={this.state.forecast}
+                    activeDay={this.state.activeDay}
+                    isHourlyReady={this.state.isHourlyReady}
+                    isHourlyRequired={this.state.isHourlyRequired}
+                />
+                <DaysBar
+                    days={this.state.forecast.daily}
+                    onDayClick={this.handleDayClick}
+                />
+            </div> 
+            : <div className={styles.LoadingScreen}>
+                <p>Loading forecast...</p>
+            </div>
+        )
+    }
+```
 
