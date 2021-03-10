@@ -1,0 +1,43 @@
+.content{
+    width: 60%;
+    margin: 0 auto;
+    background: linear-gradient(to right, #F6EFD2, #CEAD78);
+}
+
+.header{
+    display: flex;
+}
+
+.header-text{
+    width: 50%;
+    text-align: center;
+}
+
+.contacts{
+    width: 50%;
+    padding-left: 3%;
+}
+
+section{
+    background: radial-gradient(#F6EFD2, #CEAD78);
+    padding-left: 5%;
+}
+
+footer{
+    background: radial-gradient(#F6EFD2, #CEAD78);
+    display: flex;
+    justify-content: center;
+}
+
+details{
+    background: radial-gradient(#F6EFD2, #CEAD78);  
+    margin-bottom: 2%;
+}
+
+.image{
+    width: 25%;
+}
+
+.logo{
+    width: 15%
+}
